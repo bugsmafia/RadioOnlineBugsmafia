@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "Radio.Bugsmafia"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "Radio.Bugsmafia"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "Radio.Bugsmafia"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "Radio.Bugsmafia"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "Radio.Bugsmafia"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "Radio.Bugsmafia"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "Radio.Bugsmafia"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "Radio.Bugsmafia"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "Radio.Bugsmafia"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "Radio.Bugsmafia"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "Radio.Bugsmafia"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "Radio.Bugsmafia"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "Radio.Bugsmafia"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "Radio.Bugsmafia"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "Radio.Bugsmafia"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "Radio.Bugsmafia"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "Radio.Bugsmafia"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "Radio.Bugsmafia"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "Radio.Bugsmafia"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "Radio.Bugsmafia"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "Radio.Bugsmafia"
+        }
+    }
+}
